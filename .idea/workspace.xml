@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e11350c9-72fd-485f-8d7d-2436be021a66" name="Changes" comment="" />
+    <list default="true" id="e11350c9-72fd-485f-8d7d-2436be021a66" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,7 @@
       <workItem from="1690774858180" duration="1410000" />
       <workItem from="1690785266983" duration="442000" />
       <workItem from="1691394870660" duration="14000" />
+      <workItem from="1691561962077" duration="1076000" />
     </task>
     <task id="LOCAL-00001" summary="20230731">
       <option name="closed" value="true" />
@@ -67,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690785379719</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update file">
+      <option name="closed" value="true" />
+      <created>1691562023700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691562023700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="20230731" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230731" />
+    <MESSAGE value="Update file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update file" />
   </component>
 </project>

@@ -7,7 +7,7 @@ import smtplib
 import getpass
 from bs4 import BeautifulSoup
 
-def send_email( i ):
+def send_email():
     your_email = "david89062388@gmail.com"
     your_password = "tehxfalyzkkdplcn"
     send_email_to = "bitcointest0206@gmail.com"
@@ -22,10 +22,7 @@ def send_email( i ):
     msg['Subject'] = "Warning"
 
     # your message
-    if ( i == 0 ):
-        message = "Warning Smoke!!!"
-    elif ( i == 1 ):
-        message = "Warning Fire!!!"
+    message = "Warning Fire!!!"
 
     # adds in the message from the above variable
     msg.attach(MIMEText( message, "plain" ) )
