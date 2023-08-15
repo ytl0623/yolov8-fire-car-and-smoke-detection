@@ -12,7 +12,7 @@ test_image = "test1.jpg"  # test2.jpg
 
 model = YOLO( "best.pt" )
 
-results = model( source = cctv, stream = True,  show = True, conf = 0.5 )
+results = model( source = cctv, stream = True,  show = True, save = True, conf = 0.5 )
 
 for r in results:
     try:    

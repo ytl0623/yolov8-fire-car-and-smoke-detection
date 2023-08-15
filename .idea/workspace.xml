@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e11350c9-72fd-485f-8d7d-2436be021a66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/yolo/v8/detect/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/yolo/v8/detect/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ultralytics/yolo/v8/detect/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/yolo/v8/detect/send_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +60,7 @@
       <workItem from="1691561962077" duration="1076000" />
       <workItem from="1691660592933" duration="52000" />
       <workItem from="1691660648864" duration="17000" />
-      <workItem from="1692089299216" duration="1973000" />
+      <workItem from="1692089299216" duration="4269000" />
     </task>
     <task id="LOCAL-00001" summary="20230731">
       <option name="closed" value="true" />
@@ -108,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692089909163</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update main files">
+      <option name="closed" value="true" />
+      <created>1692091301359</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692091301359</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

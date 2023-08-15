@@ -10,9 +10,9 @@ from bs4 import BeautifulSoup
 
 
 def send_email():
-    your_email = "david89062388@gmail.com"
-    your_password = "tehxfalyzkkdplcn"
-    send_email_to = "bitcointest0206@gmail.com"
+    your_email =
+    your_password =
+    send_email_to =
 
     # create message object instance
     msg = MIMEMultipart()
@@ -26,7 +26,7 @@ def send_email():
     text = MIMEText('<img src="cid:image1">', 'html')
     msg.attach(text)
 
-    image = MIMEImage(open('runs/detect/test1.jpg', 'rb').read())
+    image = MIMEImage(open('runs/detect/predict/test1.jpg', 'rb').read())
 
     # Define the image's ID as referenced in the HTML body above
     image.add_header('Content-ID', '<image1>')

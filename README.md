@@ -29,7 +29,15 @@ pip install -r requirements.txt
 
 ## Go to the working directory
 ```
-cd ultralytics\yolo\v8\detect
+cd ultralytics/yolo/v8/detect/
+```
+
+## Modify E-mail address
+Change your desire email address in ```send_email.py```.
+```
+your_email =
+your_password =
+send_email_to =
 ```
 
 ## Execute inference
@@ -41,8 +49,7 @@ python main.py
 ## Results
 The output image is like the below.
 
-#![Download DICOM directory](https://github.com/ytl0623/monai_wholeBody_ct_segmentation/assets/55120101/3a606842-88c0-4253-9072-0c5c7e2d89ee)
-
+If the model detected the fire and smoke, the command line shows output ```Warning Fire!!! Send Email!``` and it will send email to desire person with the image contains bounding box.
 
 ## Reference
 - https://github.com/ultralytics/ultralytics
