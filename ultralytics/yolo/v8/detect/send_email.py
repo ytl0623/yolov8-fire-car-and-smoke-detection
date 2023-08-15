@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 def send_email():
     your_email = "david89062388@gmail.com"
-    your_password =
+    your_password = "tehxfalyzkkdplcn"
     send_email_to = "bitcointest0206@gmail.com"
 
     # create message object instance
