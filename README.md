@@ -48,8 +48,10 @@ python main.py
 
 ## Results
 The output image is like the below.
+![results](https://github.com/ytl0623/yolov8-fire-car-and-smoke-detection/assets/55120101/c38aa985-166a-4182-a0a6-df82a826b94a)
 
 If the model detected the fire and smoke, the command line shows output ```Warning Fire!!! Send Email!``` and it will send email to desire person with the image contains bounding box.
+![螢幕擷取畫面 2023-08-15 174042](https://github.com/ytl0623/yolov8-fire-car-and-smoke-detection/assets/55120101/ca3e7697-f219-42d2-be3b-5233b204905f)
 
 ## Reference
 - https://github.com/ultralytics/ultralytics
